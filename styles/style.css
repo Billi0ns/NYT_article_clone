@@ -41,6 +41,7 @@ button {
 .navbar__icon {
   border: none;
   margin: 0.5rem;
+  background: transparent;
 }
 .navbar__icon svg {
   width: 1.6rem;
